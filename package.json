@@ -19,6 +19,7 @@
     "@slidev/types": "^0.40.6",
     "codemirror-theme-vars": "^0.1.2",
     "prism-theme-vars": "^0.2.4",
+    "sass": "^1.61.0",
     "theme-vitesse": "^0.6.4"
   },
   "devDependencies": {
